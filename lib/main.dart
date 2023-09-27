@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:semana12_my_places/pages/home_page.dart';
 import 'package:semana12_my_places/pages/permission_page.dart';
 
 void main() => runApp(const MyApp());
